@@ -1,0 +1,16 @@
+{
+  "name": "in-memory-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Weickmam Ferreira <weickmam07@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.1",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.3"
+  }
+}
